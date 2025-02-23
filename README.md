@@ -17,7 +17,7 @@ Technologies Used
 How to Run the Project
 	1.	Clone this repository:
 
-git clone https://github.com/your-username/the-red-room.git
+git clone https://github.com/Adarsh-code169/the-red-room.git
 
 
 	2.	Open index.html in a browser
